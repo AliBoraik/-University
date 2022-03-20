@@ -1,0 +1,4 @@
+ID,Model,Number
+1,'KIA Sportage','M111MM116'
+2,'Lada 21115','H222HH12'
+3,'AMC','ABC1212'
