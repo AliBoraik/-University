@@ -1,6 +1,6 @@
 # University
 
-University repository..
-Institute : itis
-University : kazan federal university
+University repository.. <br />
+Institute : itis <br />
+University : kazan federal university <br />
 
