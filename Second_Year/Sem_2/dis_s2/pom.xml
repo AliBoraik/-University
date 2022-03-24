@@ -12,6 +12,7 @@
         <module>Lab1_Scanner</module>
         <module>Lab2_Certificate</module>
         <module>Lab3_ORM</module>
+        <module>Lab4_Entity</module>
     </modules>
 
     <properties>
