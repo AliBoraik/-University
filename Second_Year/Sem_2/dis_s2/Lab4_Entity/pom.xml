@@ -8,13 +8,13 @@
         <version>2.6.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>ru.itis</groupId>
+    <groupId>com.example</groupId>
     <artifactId>Lab4_Entity</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Lab4_Entity</name>
     <description>Lab4_Entity</description>
     <properties>
-        <java.version>1.8</java.version>
+        <java.version>11</java.version>
     </properties>
     <dependencies>
         <dependency>
@@ -27,7 +27,6 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
-
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
@@ -40,6 +39,7 @@
             <version>1.18.22</version>
             <scope>provided</scope>
         </dependency>
+
     </dependencies>
 
     <build>
